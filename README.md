@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
             src="https://custom-icon-badges.demolab.com/github/stars/Joao99-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Joao99-tech?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
