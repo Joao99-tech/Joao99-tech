@@ -5,7 +5,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, segurança, design, programação e hardware. Estou no início da minha jornada, aprendendo HTML, CSS e JavaScript, e busco evoluir constantemente por meio de projetos e experimentos que unem criatividade e aprendizado.
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Joao99-tech?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
